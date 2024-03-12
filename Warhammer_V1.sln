@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warhammer_V1", "Warhammer_V1.csproj", "{A85D2BD0-4AD8-4979-913F-6F7C4428D1D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A85D2BD0-4AD8-4979-913F-6F7C4428D1D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A85D2BD0-4AD8-4979-913F-6F7C4428D1D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A85D2BD0-4AD8-4979-913F-6F7C4428D1D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A85D2BD0-4AD8-4979-913F-6F7C4428D1D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5BA26C1-57AD-4D81-84AB-56C49F306D41}
+	EndGlobalSection
+EndGlobal
